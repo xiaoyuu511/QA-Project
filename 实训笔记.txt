@@ -1,1 +1,1 @@
-第一次成功克隆仓库，开始实训
+今天我复习了 git clone, add, commit, push
